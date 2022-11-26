@@ -1,2 +1,2 @@
 # InfraIII-terraform
-Create VPC
+Create VPC, instância e subnet
